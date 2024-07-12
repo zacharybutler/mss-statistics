@@ -1,0 +1,14 @@
+[project]
+name = "mss-stats"
+version = "2024.0.0"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "watchdog",
+    "numpy",
+]
+requires-python = ">=3.12"
+authors = [
+    {name = "Zach Butler", email = "zbutler62@protonmail.com"}
+]
+description = "Streamlit app to explore Greek Paul Project Mss Statistics"
